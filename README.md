@@ -1,4 +1,4 @@
-# vision-playground
+# Vision-Playground
 Collection of small vision projects
 
 Notebook name and their Kaggle notebook Links: </br>
