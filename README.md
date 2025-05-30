@@ -1,7 +1,7 @@
 # Vision-Playground
 Collection of small vision projects
 
-Notebook name and their Kaggle notebook Links: </br>
+List of Notebooks and their Kaggle notebook Links: </br>
 1. Image Similarity from Classical to Transformer  -> https://www.kaggle.com/code/vermaavi/image-similarity-from-classical-to-transformer </br>
    We want to explore and compare a few techniques for assessing image similarity, focusing on 2 distinct levels: </br>
    i. Duplicate or Near-Duplicate Image Detection: Using phash, ahash and colour histogram </br>
